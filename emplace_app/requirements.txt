@@ -1,0 +1,13 @@
+Flask==0.12
+Flask-Cors==3.0.2
+Flask-GoogleMaps==0.2.4
+Flask-Login==0.3.2
+Flask-MySQL==1.4.0
+Flask-RESTful==0.3.5
+Flask-SocketIO==2.8.2
+Flask-Stormpath==0.4.8
+Werkzeug==0.11.15
+Pillow==4.0.0
+Jinja2==2.9.4
+Flask-SSLify==0.1.5
+requests==2.9.1
