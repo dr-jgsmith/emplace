@@ -7,7 +7,7 @@ Flask-RESTful==0.3.5
 Flask-SocketIO==2.8.2
 Flask-Stormpath==0.4.8
 Werkzeug==0.11.15
-Pillow==4.0.0
+Pillow==8.2.0
 Jinja2==2.9.4
 Flask-SSLify==0.1.5
 requests==2.9.1
